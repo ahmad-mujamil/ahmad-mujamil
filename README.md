@@ -1,2 +1,2 @@
 # Backend Engineer
-> PHP | HTML | JavaScript | Laravel Framework | MySQL | Oracle
+> PHP | HTML | JavaScript | Laravel Framework | MySQL | ReactJs
